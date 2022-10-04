@@ -1,0 +1,5 @@
+{
+	"ip":"multiplayerad.aternos.me",
+	"name":"afk_bot",
+	"port":"55864"
+}
